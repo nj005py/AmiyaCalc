@@ -1,2 +1,2 @@
-# AmiyaCalc
-A calc for Arknights
+# AmiyaCalc(阿米驴计算器)
+为手游明日方舟做的计算器App，具体要算什么，还未想好，入坑没几天，还不熟悉。
